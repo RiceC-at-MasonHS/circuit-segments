@@ -1,0 +1,227 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6128aede-be38-412f-a65d-6dbf7377b853")
+	(paper "USLetter")
+	(title_block
+		(rev "v1.0")
+		(company "Mason High School Applied Technology")
+	)
+	(lib_symbols)
+	(text "This 'root' page links together all the segments."
+		(exclude_from_sim no)
+		(at 129.54 21.844 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+		)
+		(uuid "30fabc0b-7158-47c0-814a-7c75d7b13152")
+	)
+	(text "Because the schematics here are intended for instructional purposes only, \nyou can ignore this page and consider all subsequent pages as independent \nfrom each other. "
+		(exclude_from_sim no)
+		(at 128.778 31.242 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "711ac071-6e9e-4617-a942-00d73e451514")
+	)
+	(sheet
+		(at 184.15 52.07)
+		(size 35.56 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3799df5f-9280-4652-8b02-928f1116eb44")
+		(property "Sheetname" "night-rider"
+			(at 184.15 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "night-rider.kicad_sch"
+			(at 184.15 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuit segments"
+				(path "/6128aede-be38-412f-a65d-6dbf7377b853"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 52.07)
+		(size 38.1 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "56c4b35e-48f6-4117-afa8-8865ee22add5")
+		(property "Sheetname" "555-basic-blinker"
+			(at 132.08 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "555-basic-blinker_sch.kicad_sch"
+			(at 132.08 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuit segments"
+				(path "/6128aede-be38-412f-a65d-6dbf7377b853"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 52.07)
+		(size 35.56 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "92a390be-54ab-4fe0-949f-341c2f0a5376")
+		(property "Sheetname" "momentary-button"
+			(at 86.36 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "momentary-button.kicad_sch"
+			(at 86.36 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuit segments"
+				(path "/6128aede-be38-412f-a65d-6dbf7377b853"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 92.71)
+		(size 36.83 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af694672-6b89-4e4b-9e6e-ea0b51b0cbbf")
+		(property "Sheetname" "motors"
+			(at 36.83 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motors.kicad_sch"
+			(at 36.83 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuit segments"
+				(path "/6128aede-be38-412f-a65d-6dbf7377b853"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 52.07)
+		(size 36.83 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dd48b34b-2ea0-4711-bf5e-dd1964e139b7")
+		(property "Sheetname" "scioly-delayed-light"
+			(at 36.83 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "scioly-delayed-light.kicad_sch"
+			(at 36.83 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuit segments"
+				(path "/6128aede-be38-412f-a65d-6dbf7377b853"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
