@@ -1,0 +1,47 @@
+# KiCad Project Specific
+*.backup
+*.kicad_pcb~
+*.sch~
+*.cmp~
+*.lib~
+*.mod~
+*.pro~
+*.wks~
+*.brd~
+*.net~
+*.dcm~
+*.erc
+*.drc
+*.plt
+*.pos
+*.rpt
+*.fab
+*.gerberjob
+*.gbr
+*.gm1
+*.gko
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.dri
+*.oln
+*.olb
+*.ipc
+*.kicad_prl
+*.xml
+*.pdf
+*.svg
+*.png
+*.jlcpcb_bom.csv
+*.jlcpcb_cpl.csv
+*.zip
+
+# Backup Folder
+circuit segments-backups/
+
+# OS Specific - Feel free to remove if not needed
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.log
