@@ -1,5 +1,6 @@
-# KiCad Project Specific
+# KiCad Project Specific - Schematic Only
 *.backup
+*.kicad_pcb
 *.kicad_pcb~
 *.sch~
 *.cmp~
@@ -39,6 +40,9 @@
 
 # Backup Folder
 circuit segments-backups/
+
+# we want a PDF to show the circuit segments
+!circuit-segments.pdf 
 
 # OS Specific - Feel free to remove if not needed
 .DS_Store
