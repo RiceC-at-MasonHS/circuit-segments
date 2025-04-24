@@ -41,6 +41,13 @@
 # Backup Folder
 circuit segments-backups/
 
+# other files
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
 # we want a PDF to show the circuit segments
 !circuit-segments.pdf 
 
