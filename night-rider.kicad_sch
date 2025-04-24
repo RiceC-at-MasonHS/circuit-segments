@@ -8,6 +8,7 @@
 		(title "Night Rider (LED Chaser)")
 		(rev "v1.0")
 		(company "Mason High School Applied Technology")
+		(comment 1 "Using a decade counter to setup some chasing lights")
 	)
 	(lib_symbols
 		(symbol "4xxx:4017"

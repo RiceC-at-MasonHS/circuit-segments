@@ -8,6 +8,7 @@
 		(title "555 Basic Blinker")
 		(rev "v1.0")
 		(company "Mason High School Applied Technology")
+		(comment 1 "A classic design that lets an LED turn on and off.")
 	)
 	(lib_symbols
 		(symbol "Device:Battery"

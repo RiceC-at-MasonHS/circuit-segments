@@ -9,6 +9,7 @@
 		(date "2025-03-20")
 		(rev "v1.0")
 		(company "Mason High School Applied Technology")
+		(comment 1 "6 common ways to use buttons with microcontrollers")
 	)
 	(lib_symbols
 		(symbol "Device:C"
