@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "dfc1f882-4219-473e-a8df-a202f05bc92c")
+	(paper "USLetter")
+	(title_block
+		(title "The Transistor as a Switch")
+		(date "2025-04-24")
+		(rev "v1.0")
+		(company "Mason High School Applied Technology")
+	)
+	(lib_symbols)
+)

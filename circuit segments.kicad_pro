@@ -598,6 +598,18 @@
     [
       "af694672-6b89-4e4b-9e6e-ea0b51b0cbbf",
       "motors"
+    ],
+    [
+      "71b976db-c0c9-498d-bbd5-bf7ebf2ca437",
+      "lights"
+    ],
+    [
+      "899a4a51-0d1d-4acd-b9ce-65cc9120f41f",
+      "the-voltage-divider"
+    ],
+    [
+      "237a2e32-5b92-41ba-81ea-a59671a480e4",
+      "transistor-switch"
     ]
   ],
   "text_variables": {}
